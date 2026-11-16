@@ -23,6 +23,12 @@ The mod changes the display, not AE2's storage system.
 
 Developed for **ATM10 Aeronautics 0.5.1**. Current version: **0.5.0 — prototype**.
 
+## Download
+
+**[Download experimental v0.5.0 (.jar)](https://github.com/MatmanGreen/AE2-Storage-Categories/raw/refs/heads/main/downloads/ae2-storage-categories-0.5.0-prototype.jar)**
+
+Close Minecraft, place the JAR in your instance's `mods` folder, then start the game. Do not extract it. Remove older versions of this mod first. [Quick installation guide](downloads/README.md).
+
 ## Installation and Usage
 
 1. Place the mod JAR in your `mods` folder. Remove older versions of this mod first.
@@ -33,3 +39,4 @@ Developed for **ATM10 Aeronautics 0.5.1**. Current version: **0.5.0 — prototyp
 Higher priorities appear first and take precedence when filters overlap. Multiplayer requires the mod on both the server and clients; testing has primarily focused on single-player.
 
 **Prototype notice:** Use a test world first. Some interface text is currently in German, including the miscellaneous category label, “Sonstiges.” This is an unofficial AE2 add-on.
+
