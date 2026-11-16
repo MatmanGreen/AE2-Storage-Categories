@@ -1,35 +1,35 @@
 # AE2 Storage Categories
 
-Eine NeoForge-Mod für **Applied Energistics 2**, die Items direkt im bestehenden ME-Terminal in frei definierbare, einklappbare Kategorien einordnet.
+A NeoForge mod for **Applied Energistics 2** that organizes items into customizable, collapsible categories directly inside existing ME terminals.
 
-## Funktionen
+## Features
 
-- **ME Category Controller:** eigener Kategoriename, Priorität und neun Slots für AE2 View Cells.
-- Filterkonfiguration über die vorhandene **Cell Workbench**.
-- Unterstützung für kabelgebundene Terminals und Wireless Crafting Terminals.
-- Gespeicherte Klappzustände; nicht zugeordnete Items erscheinen unter **Sonstiges**.
-- Normale AE2-Suche bei Texteingabe; **F8** schaltet die Kategorienansicht um.
+- **ME Category Controller:** a custom category name, priority, and nine AE2 View Cell slots.
+- Configure filters using the existing **Cell Workbench**.
+- Supports wired terminals and Wireless Crafting Terminals.
+- Remembers collapsed categories; unmatched items appear under **Miscellaneous**.
+- Uses the standard AE2 item list while searching. Press **F8** to toggle the category view.
 
-Die Mod verändert die Darstellung, nicht das AE2-Speichersystem.
+The mod changes the display, not AE2's storage system.
 
-## Zielversionen
+## Target Versions
 
-| Komponente | Version |
+| Component | Version |
 |---|---|
 | Minecraft | 1.21.1 |
 | NeoForge | 21.1.248 |
 | Applied Energistics 2 | 19.2.17 |
 | AE2 Wireless Terminal Library (optional) | 19.5.1 |
 
-Entwickelt für **ATM10 Aeronautics 0.5.1**. Aktueller Stand: **0.5.0 – Prototyp**.
+Developed for **ATM10 Aeronautics 0.5.1**. Current version: **0.5.0 — prototype**.
 
-## Installation und Nutzung
+## Installation and Usage
 
-1. Die Mod-JAR in den `mods`-Ordner legen. Ältere Versionen dieser Mod vorher entfernen.
-2. Einen **ME Category Controller** an ein versorgtes ME-Netz anschließen.
-3. View Cells konfigurieren, in den Controller einlegen und die Kategorie benennen.
-4. Terminal öffnen und Kategorien per Klick auf die Überschrift ein- oder ausklappen.
+1. Place the mod JAR in your `mods` folder. Remove older versions of this mod first.
+2. Connect an **ME Category Controller** to a powered ME network.
+3. Configure View Cells, insert them into the controller, and name your category.
+4. Open a terminal and click category headers to expand or collapse them.
 
-Höhere Prioritäten stehen weiter oben und gewinnen bei überschneidenden Filtern. Im Multiplayer wird die Mod auf Server und Clients benötigt; bisher liegt der Testschwerpunkt auf Einzelspieler.
+Higher priorities appear first and take precedence when filters overlap. Multiplayer requires the mod on both the server and clients; testing has primarily focused on single-player.
 
-**Entwicklungsstand:** Zunächst in einer Testwelt verwenden. Kein offizielles AE2-Projekt.
+**Prototype notice:** Use a test world first. Some interface text is currently in German, including the miscellaneous category label, “Sonstiges.” This is an unofficial AE2 add-on.
