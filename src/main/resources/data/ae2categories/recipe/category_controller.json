@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"redstone","pattern":["IRI","RCR","IRI"],"key":{"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"},"C":{"item":"minecraft:chest"}},"result":{"id":"ae2categories:category_controller","count":1}}

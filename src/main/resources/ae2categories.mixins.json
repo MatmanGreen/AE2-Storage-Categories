@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.gruen.ae2categories.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["RepoMixin", "RepoSlotMixin", "StorageScreenMixin", "HeaderGestureMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
