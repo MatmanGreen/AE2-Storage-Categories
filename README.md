@@ -2,6 +2,12 @@
 
 A NeoForge mod for **Applied Energistics 2** that organizes items into customizable, collapsible categories directly inside existing ME terminals.
 
+## AI Disclosure
+
+**This mod's code is 100% AI-generated using OpenAI Codex.** The project owner provided the concept, requirements, feedback, and in-game testing; they did not manually write the mod's code. Custom block textures were also generated with AI.
+
+This statement applies to this mod's own code, not to Minecraft, AE2, NeoForge, Gradle, or other third-party dependencies and tooling.
+
 ## Features
 
 - **ME Category Controller:** a custom category name, priority, and nine AE2 View Cell slots.
@@ -39,4 +45,5 @@ Close Minecraft, place the JAR in your instance's `mods` folder, then start the 
 Higher priorities appear first and take precedence when filters overlap. Multiplayer requires the mod on both the server and clients; testing has primarily focused on single-player.
 
 **Prototype notice:** Use a test world first. Some interface text is currently in German, including the miscellaneous category label, “Sonstiges.” This is an unofficial AE2 add-on.
+
 
